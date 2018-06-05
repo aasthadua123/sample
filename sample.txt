@@ -1,2 +1,6 @@
 htis is the first line
 this is second line
+
+
+
+this is the part of second commit 
